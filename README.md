@@ -2,4 +2,4 @@
 learning
 new to programming
 wants to learn
-i try my beat
+i try my best
